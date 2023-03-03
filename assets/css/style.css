@@ -463,12 +463,12 @@ main .box .logo span {
 @media (max-width:605px){
   .home-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 25px;
   }
   .project-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 25px;
   }
   .project-container .projects .pro-img {
@@ -496,19 +496,19 @@ main .box .logo span {
 
 }
 @media (max-width:450px) {
-/*   .home-container {
+  .home-container {
     display: grid;
     padding: 3px;
-    grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+/*     grid-template-columns: repeat(auto-fit, minmax(360px, 1fr)); */
   }
   .project-container {
     display: grid;
     padding: 3px;
-    grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+/*     grid-template-columns: repeat(auto-fit, minmax(360px, 1fr)); */
   }
   .home-img img {
     height: 400px;
-  } */
+  }
   
   
 }

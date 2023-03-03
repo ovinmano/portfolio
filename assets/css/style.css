@@ -483,7 +483,13 @@ main .box .logo span {
   .social-icons i{
     padding: 0px 20px;
   }
-  
+   nav {
+    padding: 0 10px 0 20px;
+  }
+  h1{
+    font-size: 35px;
+    padding-top: 25px;
+  }
 
 }
   

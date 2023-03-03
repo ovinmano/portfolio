@@ -498,12 +498,12 @@ main .box .logo span {
 @media (max-width:450px) {
   .home-container {
     display: grid;
-    padding: 3px;
+    padding: 7px;
     grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
   }
   .project-container {
     display: grid;
-    padding: 3px;
+    padding: 7px;
     grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
   }
   .home-img img {
